@@ -1,0 +1,25 @@
+
+QDialog{
+    background-color: #05668D;
+}
+QComboBox{
+    background-color: #3D3D3D;
+    border: none;
+
+}
+QDoubleSpinBox{
+   background-color: #3D3D3D;
+   border: none
+}
+QLabel{
+
+    font-size: 14px;
+}
+QCalendarWidget QToolButton
+{
+    background-color : #3D3D3D;
+}
+QCalendarWidget QToolButton::hover
+{
+    background-color : #05668D;
+}
